@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eunsu322/movie_app.git/static/css/main.05734a6a.css",
+    "main.js": "/eunsu322/movie_app.git/static/js/main.7187fbd7.js",
+    "index.html": "/eunsu322/movie_app.git/index.html",
+    "main.05734a6a.css.map": "/eunsu322/movie_app.git/static/css/main.05734a6a.css.map",
+    "main.7187fbd7.js.map": "/eunsu322/movie_app.git/static/js/main.7187fbd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05734a6a.css",
+    "static/js/main.7187fbd7.js"
+  ]
+}
